@@ -95,7 +95,7 @@ class _ExpenseFormBottomSheetState extends State<ExpenseFormBottomSheet> {
               ),
               TextFormField(
                 controller: _descController,
-                decoration: const InputDecoration(labelText: 'Note/Description (Optional)'),
+                decoration: const InputDecoration(labelText: 'Description (Optional)'),
               ),
               DropdownButtonFormField<String>(
                 value: _selectedCategory,
