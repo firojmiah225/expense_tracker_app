@@ -1,3 +1,5 @@
+<img width="340" height="738" alt="Screenshot2" src="https://github.com/user-attachments/assets/7a84dc2a-0f6f-4b70-a3aa-ffc11b1aff75" />
+<img width="381" height="742" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ed793693-d1ac-44e5-a092-681e651726a6" />
 # expense_tracker_app
 
 A new Flutter project.
